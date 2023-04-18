@@ -19,4 +19,4 @@ The notebook uses scikit-learn and keras to build a 9 model-MLP,LSTM,CNN,AdaBoos
 
 ## Acknowledgments
 Kaggle for providing the dataset used in this project.
-Scikit-learn, Pandas, Numpy, Matplotlib,Keras and Seaborn for their valuable contributions to the project.
+Scikit-learn, Pandas, Numpy, Matplotlib,Keras and Seaborn for their valuable contributions to the project
